@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/jayja/risc8bit/risc8bit.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/jayja/risc8bit/risc8bit.srcs/sim_1/new/CPU_Top_tb.v,1761910592,verilog,,,,CPU_Top_tb,,,../../../../../OneDrive/Desktop/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/jayja/risc8bit/risc8bit.srcs/sources_1/new/alu.v,1761911354,verilog,,C:/Users/jayja/risc8bit/risc8bit.srcs/sim_1/new/CPU_Top_tb.v,,ALU;CPU_Top;ControlUnit;InstructionMemory;ProgramCounter;RegisterFile,,,../../../../../OneDrive/Desktop/2025.1/Vivado/data/rsb/busdef,,,,,
