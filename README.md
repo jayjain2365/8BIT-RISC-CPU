@@ -16,3 +16,31 @@ It includes a simple instruction set architecture (ISA) and key components like:
 - GitHub for Version Control
 
 ## 📂 Project Structure
+8bit-RISC-CPU/
+│
+├── src/                     
+│   ├── ALU.v
+│   ├── ControlUnit.v
+│   ├── RegisterFile.v
+│   ├── InstructionMemory.v
+│   ├── RISC_CPU.v
+│
+├── tb/
+│   └── tb_RISC_CPU.v
+│
+├── docs/                    
+│   ├── block_diagram.png
+│   ├── schematic.png
+│   ├── waveform.png
+│   └── project_report.pdf    
+│
+├── simulation/             
+│   └── output_waveform.vcd
+│
+├── vivado_project/         
+│   ├── 8bit_RISC_CPU.xpr
+│   └── other Vivado files (.runs, .srcs, etc.)
+│
+├── README.md                
+├── LICENSE                   
+└── .gitignore                
