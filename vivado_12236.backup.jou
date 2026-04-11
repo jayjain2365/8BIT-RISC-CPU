@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Sat Apr 11 18:09:55 2026
+# Process ID         : 12236
+# Current directory  : C:/Users/jayja/OneDrive/Documents/8bit_risc_alu/project_1
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent20876 C:\Users\jayja\OneDrive\Documents\8bit_risc_alu\project_1\project_1.xpr
+# Log file           : C:/Users/jayja/OneDrive/Documents/8bit_risc_alu/project_1/vivado.log
+# Journal file       : C:/Users/jayja/OneDrive/Documents/8bit_risc_alu/project_1\vivado.jou
+# Running On         : Jay
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16857 MB
+# Swap memory        : 7859 MB
+# Total Virtual      : 24717 MB
+# Available Virtual  : 795 MB
+#-----------------------------------------------------------
+start_gui
+oopen_project C:/Users/jayja/OneDrive/Documents/8bit_risc_alu/project_1/project_1.xpr
+update_compile_order -fileset sources_1
