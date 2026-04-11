@@ -52,4 +52,4 @@ It demonstrates fundamental CPU architecture concepts including datapath and con
 
 ## Author
 
-Jay Jain
+Jay Jain | Dhruvi Chavda
